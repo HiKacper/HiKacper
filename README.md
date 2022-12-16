@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Kacper. HiKacper 👋</h1>
-<h3 align="center">A father of three exploring new challenges</h3>
+<h1 align="left">Hi, I'm Kacper. HiKacper 👋</h1>
+<h3 align="left">A father of three exploring new challenges</h3>
 
 🔭 I’m currently working on **gaining experience in web-dev**
 
